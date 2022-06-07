@@ -1,0 +1,3 @@
+http://example.com/2022/06/07/fortran/
+http://example.com/2022/06/07/hello-world/
+http://example.com/
